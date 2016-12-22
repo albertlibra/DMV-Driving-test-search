@@ -4,9 +4,7 @@ Made for fun.Automatically search for the earliest date available on 4 DMV mega 
 
 Prerequisite
 
-geckodriver in your PATH
+1.geckodriver in your PATH https://github.com/mozilla/geckodriver/releases
 
-https://github.com/mozilla/geckodriver/releases
-
-If you use chrome
+2.If you use chrome
 https://sites.google.com/a/chromium.org/chromedriver/downloads
