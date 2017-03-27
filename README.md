@@ -4,12 +4,11 @@ Made for fun.Automatically search for the earliest date available on 4 DMV mega 
 
 ## Prerequisite
 
-- 1 **Selenium** package: conda install Selenium or pip install Selenium
-
-- 2 Add webdriver exe into your PATH
-
- - If you use Firefox,include [geckodriver](https://github.com/mozilla/geckodriver/releases) in your PATH 
- - If you use chrome,include [this driver](https://sites.google.com/a/chromium.org/chromedriver/downloads) in your PATH
+ 1 **Selenium** package: conda install Selenium or pip install Selenium
+ 
+ 2 Add webdriver exe into your PATH
+  - If you use Firefox,include [geckodriver](https://github.com/mozilla/geckodriver/releases) in your PATH 
+  - If you use chrome,include [this driver](https://sites.google.com/a/chromium.org/chromedriver/downloads) in your PATH
  - webdrivers for [other browers](http://seleniumhq.github.io/selenium/docs/api/py/#drivers)
 
 ## Note 
